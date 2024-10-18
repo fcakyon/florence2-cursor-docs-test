@@ -1,13 +1,14 @@
 <nav>
   <ul>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md" target="_blank">Model Readme</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json" target="_blank">Model Configuration</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/preprocessor_config.json" target="_blank">Preprocessor Configuration</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/configuration_florence2.py" target="_blank">Vision Model Configuration</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/processing_florence2.py" target="_blank">Processing Code</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/modeling_florence2.py" target="_blank">Model Code</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md">Model Readme: README.md</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json">Model Configuration: config.json</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/preprocessor_config.json">Preprocessor Configuration: preprocessor_config.json</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/configuration_florence2.py">Vision Model Configuration: configuration_florence2.py</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/processing_florence2.py">Processing Code: processing_florence2.py</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/modeling_florence2.py">Model Code: modeling_florence2.py</a></li>
   </ul>
 </nav>
+
 
 
 contains info on how to load model, perform inference, model sizes, benchmarks: [florence2-base readme](https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md)
