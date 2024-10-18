@@ -1,3 +1,15 @@
+<nav>
+  <ul>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md" target="_blank">Model Readme</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json" target="_blank">Model Configuration</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/preprocessor_config.json" target="_blank">Preprocessor Configuration</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/configuration_florence2.py" target="_blank">Vision Model Configuration</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/processing_florence2.py" target="_blank">Processing Code</a></li>
+    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/modeling_florence2.py" target="_blank">Model Code</a></li>
+  </ul>
+</nav>
+
+
 contains info on how to load model, perform inference, model sizes, benchmarks: [florence2-base readme](https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md)
 
 contains default config params as projection_dim, vocab_size, model_type, torch_dtype, patch_size, decoder_attention_heads, decoder_layers, encoder_layers: [florence2-base config.json](https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json)
