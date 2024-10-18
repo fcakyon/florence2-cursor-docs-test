@@ -1,13 +1,57 @@
-<nav>
-  <ul>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md">Model Readme: README.md</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json">Model Configuration: config.json</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/preprocessor_config.json">Preprocessor Configuration: preprocessor_config.json</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/configuration_florence2.py">Vision Model Configuration: configuration_florence2.py</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/processing_florence2.py">Processing Code: processing_florence2.py</a></li>
-    <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/modeling_florence2.py">Model Code: modeling_florence2.py</a></li>
-  </ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Florence 2 Navigation</title>
+    <style>
+        /* Basic styles for the navbar */
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+        }
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar ul li {
+            float: left;
+        }
+        .navbar ul li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .navbar ul li a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        /* Responsive navbar */
+        @media screen and (max-width: 600px) {
+            .navbar ul li {
+                float: none;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar">
+    <ul>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/README.md" target="_blank">Model Readme</a></li>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/config.json" target="_blank">Model Configuration</a></li>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/preprocessor_config.json" target="_blank">Preprocessor Configuration</a></li>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/configuration_florence2.py" target="_blank">Vision Model Configuration</a></li>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/processing_florence2.py" target="_blank">Processing Code</a></li>
+        <li><a href="https://huggingface.co/microsoft/Florence-2-base/raw/main/modeling_florence2.py" target="_blank">Model Code</a></li>
+    </ul>
 </nav>
+
+</body>
+</html>
 
 
 
